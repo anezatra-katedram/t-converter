@@ -1,5 +1,5 @@
 # 𖤍 T-Converter Trojan Embedding Tool v1.0 Beta 𖤍
-![banner image](https://github.com/anezatra/t-converter/blob/main/banner.jpg)
+![banner image](https://github.com/anezatra-katedram/t-converter/blob/main/banner.jpg)
 ## What is a t-converter❔
 This tool allows you to embed a trojan file into any desired file and convert it to PDF or JPG format. This way, you can disguise viruses such as EXE or APK files as PDFs or JPGs. Through extensive research, I discovered that an Android virus can also appear in JPG or PDF format. This tool is entirely my creation, and I do not provide information on how the APK is converted to this format. Additionally, for EXE files, the tool can use WinRAR, which is available on any computer, to perform the conversion without needing Wine or Windows API emulation. WinRAR compresses applications into SFX archives and converts them to the chosen extension (PDF or JPG). This feature makes it easier to deceive your targets. The program also works on various operating systems, including Windows, Kali Linux, and Termux. 
 
